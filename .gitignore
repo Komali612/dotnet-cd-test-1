@@ -1,0 +1,8 @@
+bin/
+obj/
+TestResults/
+.ci-agent-logs/
+classification.json
+.idea/
+.vs/
+.DS_Store
